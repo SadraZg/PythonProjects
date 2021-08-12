@@ -28,3 +28,9 @@ In the main page, enter the value, select scales and BOOM you've got your conver
 LinkedList:
 --
 Implemented linked list in Python from scratch. Currently, the class contains is_empty(), insert_first(), delete_first(), reverse(), and print_list() functions. 
+
+
+Stack:
+--
+Implemented Stack using my LinkedList module in Python. Currently, the class contains is_empty(), push(), pop(), and print_stack() functions. 
+I've implemented the stack using Python built-in functions as well.
