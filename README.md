@@ -33,4 +33,10 @@ Implemented linked list in Python from scratch. Currently, the class contains is
 Stack:
 --
 Implemented Stack using my LinkedList module in Python. Currently, the class contains is_empty(), push(), pop(), and print_stack() functions. 
-I've implemented the stack using Python built-in functions as well.
+I've implemented the stack using Python built-in list as well.
+
+
+Queue:
+--
+Implemented Queue using my LinkedList module in Python. Currently, the class contains is_empty(), enqueue(), dequeue(), and print_queue() functions. 
+I've implemented the queue using Python built-in list as well.
