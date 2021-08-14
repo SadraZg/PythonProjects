@@ -40,3 +40,8 @@ Queue:
 --
 Implemented Queue using my LinkedList module in Python. Currently, the class contains is_empty(), enqueue(), dequeue(), and print_queue() functions. 
 I've implemented the queue using Python built-in list as well.
+
+
+DoubleLinkedList:
+--
+DoublelinkedList is actually bidirectional Linked List which I've implemented using my LinkedList module in Python. Currently, the class contains is_empty(), delete_first(), insert_first(), and print_list() functions.
