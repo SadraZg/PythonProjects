@@ -45,3 +45,9 @@ I've implemented the queue using Python built-in list as well.
 DoubleLinkedList:
 --
 DoublelinkedList is actually bidirectional Linked List which I've implemented using my LinkedList module in Python. Currently, the class contains is_empty(), delete_first(), insert_first(), and print_list() functions.
+
+
+NearestSmallerNeighbor
+--
+Implemented the solution to < nearest smaller neighbor to left > problem in Python using my own implementation of stack.
+The time complexity would be O(n) - n being the number of elements.
