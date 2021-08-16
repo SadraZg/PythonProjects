@@ -49,5 +49,5 @@ DoublelinkedList is actually bidirectional Linked List which I've implemented us
 
 NearestSmallerNeighbor
 --
-Implemented the solution to < nearest smaller neighbor to left > problem in Python using my own implementation of stack.
+Implemented the solution to < Nearest Smaller Neighbor to Left > problem in Python using my own implementation of stack.
 The time complexity would be O(n) - n being the number of elements.
