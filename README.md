@@ -51,3 +51,9 @@ NearestSmallerNeighbor
 --
 Implemented the solution to < Nearest Smaller Neighbor to Left > problem in Python using my own implementation of stack.
 The time complexity would be O(n) - n being the number of elements.
+
+
+BracketBalancing
+--
+Implemented the solution to < Bracket Balancing > problem in Python using my own implementation of stack.
+The time complexity would be O(n) - n being the number of elements.
