@@ -57,3 +57,8 @@ BracketBalancing
 --
 Implemented the solution to < Bracket Balancing > problem in Python using my own implementation of stack.
 The time complexity would be O(n) - n being the number of elements.
+
+
+BaseChanger
+--
+Implemented a python module from scratch (without the use of any libraries) that changes decimal to any base and vice versa.
