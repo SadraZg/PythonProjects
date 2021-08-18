@@ -62,3 +62,23 @@ The time complexity would be O(n) - n being the number of elements.
 BaseChanger
 --
 Implemented a python module from scratch (without the use of any libraries) that changes decimal to any base and vice versa.
+
+
+Graph_raw
+--
+This module is scratch implementation of common tasks dealing with graphs.
+the tasks contain: 
+
+- Draw the graph
+- Get the incidence Matrix
+- Check if the graph is connected 
+- Check if the graph is tree 
+- Calculate the degree of wach node in the graph
+- Find the highest-degree node
+- Find minimum spanning tree 
+- Find the shortest path between two nodes
+- Check if the graph is bipartite
+- Color the graph 
+
+[NOTE] All component are implemented without the use of any built-in functions, except for the drawing of the graph (NetworkX)
+
