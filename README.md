@@ -80,5 +80,5 @@ the tasks contain:
 - Check if the graph is bipartite
 - Color the graph 
 
-[NOTE] All component are implemented without the use of any built-in functions, except for the drawing of the graph (NetworkX)
+[NOTE] All component are implemented without the use of any libraries, except for the drawing of the graph (NetworkX)
 
